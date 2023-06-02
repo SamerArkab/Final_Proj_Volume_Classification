@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "micro-avenue-387514",
+  "private_key_id": "da3f20cbe614098952e038dfedfd162b3b27a611",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnfOnVtqo/zYFk\nTk6pVVUljU/2wpJPVgdHYZQvU55p45eMkxY66EPaX8JjwPCu//Q5fgGIv6p1+Gkw\n8X2e+BhGfQSqIofq5kr8/Rqa+DC7kBH/3K45s/Hmmcb70aPUR5IXy+Qok5b0mRCe\nVXM6qudHmjE7vCyd4L7fP11TAMsRgUsHPnPe/uTnYb77LLhhk7h8KjX/NW88LG1c\nUVOy8Fmdlo1WbFG6iacQbS3VPDH/uZdJmulFCovhUwu/L1oFLSmNUiWLH6iAD3g9\noXJyECfAvO5Q9+uQHbHES5l6oV1VLV6tEDl64nW0M3FVWmWxwVXPIOD+T1g5lwAq\nSR7/wgLpAgMBAAECggEAJL1Z7e9r2SMTRxWGW87EJsCg0dhMj+qnHhlhkCAfl8q8\n67E4JyPb/oMS+R7RrRGoWRQy8fRZSBd9u6a9j6mMaany4/8/IV/zAxviQiw/RGWO\nDTozXaUDYzpIU+Tgsygf++hV3DDD5FPPOWw1IqFqqmJAeoIEp30tYXtc1WBPKz9+\nYDID8BkJTVz74E8cmSS6aQ8JwzKNVY7t9wmKLVnkVN9GD/RaxuO6vqIWf4rBne/S\nDceCU/G6cBfB97uGSRli0yZhcjSpWBVXkfOJgCaGPBkI23TN7Cp7phW63YfSOx78\nXryvW9Y+PBVX73E7FtAQlumfshQwWotL7owEfztMoQKBgQDbJFAvKWeBaj97PD+N\n8haP2pliz35K9uItTCmCNrgiBWmobPgb9DwEp/ABEA7vzQAvzBhNNpaUqYkTzcKi\nmGomp+I/Y+GcWZELahGACzXxksnGEdxuBZKvhmUnoZi7BuoRduYpeQTXhuSDMOx4\nPpbZd1jDnbeZZr+CeeviYyOOuwKBgQDDqIPrffGKaKZx83Dagtb8yv7lYaRT2ag1\n/BPaMez3793G3d8mC9mkpTuxzGt+KUvaWwHS/ADjGUNzLgPCT9kqRtuoviQOfNkJ\nHgNrkbt4F3RHpm6piz+CKROWZuAuAZkSRhnbJT0Haco6jtN0ySfKJOJaJENdsE0w\nld4bychEqwKBgA2hGIuWW6Wk4gXcHWfKorSXt+p5VTV8XVzL29kJZjJXe9bJ0DSM\n4B66AydNxGANs/FFFE3ZE0xzrt7YcT6DlDaLQnsGz0VWHLtFAYmhKN25b2suOTNu\njUz1Yt0wI7ueFni3mGED8dUlwpiWNl7UJbWowpCIAp870LVgt9cAq3l5AoGAGeks\nJziTjzfSqw6JKHbhT7L2VJw8rdoKO7P5UREBh8gdP6PMVHaHSRWUtTQUHC4N3Inm\n0PEMkQacdxll6Aq5AK9Hka40ijKgb2OpIkq3X+0DOiXhS9SkAXG9JVLUZ2NQySm9\nbNceoOeyn1SgzjuBaHTAAR4CSdr6Le/67QUo32cCgYEAtLqQPVcwMEJHiMluB6LJ\n0AYTCCKfFqJLSCtPDUlDJiw+ZwZJ1mywy1QUOko5pVkDx8zM6/prPxP/QSRDo2KH\nvHh5ya1qB3nzv45QqfFh4u+6Nv9OFWXQzdmjkXYrvSehnK2GnnwVXsxE0ALTFdHz\nzj0lq5BLh2smSJrxqFpXUKE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "food-classification-and-volume@micro-avenue-387514.iam.gserviceaccount.com",
+  "client_id": "114330196496255808727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/food-classification-and-volume%40micro-avenue-387514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

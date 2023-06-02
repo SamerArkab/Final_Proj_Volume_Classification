@@ -1,0 +1,10 @@
+{
+    "image_volume_lst": [
+        "segmented_images/segmented_0.jpg",
+        2.4664671917306458,
+        "segmented_images/segmented_1.jpg",
+        0.034679131939148844,
+        "segmented_images/segmented_2.jpg",
+        0.018579021741527726
+    ]
+}
