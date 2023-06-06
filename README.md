@@ -21,7 +21,7 @@ The model uses 3D images of food items to generate more accurate volume estimati
 
 ## Training Model Code
 
-The training code uses Keras with a TensorFlow backend to train a deep learning model on a dataset of food images. It uses a pre-trained Xception model with additional dense layers to classify the food items. The script includes code for data augmentation, which helps to improve the model's performance by generating more diverse training samples.
+The training code uses Keras with a TensorFlow backend to train a deep learning model on a dataset of food images. It uses a pre-trained InceptionV3 model with additional dense layers to classify the food items. The script includes code for data augmentation, which helps to improve the model's performance by generating more diverse training samples.
 
 The script assumes you have a folder structure where each category of food has its own folder of images. These should all be placed within a single parent folder. The script uses 80% of the images for training and 20% for validation.
 
