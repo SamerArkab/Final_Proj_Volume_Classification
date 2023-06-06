@@ -1,3 +1,7 @@
+* To extend the utility and accessibility of the project, we've also developed a client-server based application which runs the machine learning models. This application is built with Node.js and React for a robust and responsive user experience. Furthermore, the models have been containerized using Docker and deployed to the Google Cloud Platform (GCP), allowing for easy scalability and maintenance.
+* [Server-side repository](https://github.com/SamerArkab/volume_classification_server)
+* [Client-side repository](https://github.com/SamerArkab/volume_classification_client)
+
 # Food Volume Estimation and Nutrition Value Analysis Application
 
 This application is designed to estimate the volume of food items in images, classify the food items, and provide their nutritional values. It achieves this by integrating a volume estimation model, a classification model, and a nutritional value retrieval and storage system.
