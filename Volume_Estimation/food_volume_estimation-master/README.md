@@ -1,6 +1,7 @@
 # Food volume estimation
 Utilizing deep learning to estimate the food volume in an input image.
 
+* I implemented the network provided in the following [GitHub's link](https://github.com/AlexGraikos/food_volume_estimation), making a few tweaks, for my segmentation and food volume estimation project.
 
 ## Method
 #### Depth Network Training
