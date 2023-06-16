@@ -12,6 +12,8 @@ The training code uses Keras with a TensorFlow backend to train a deep learning 
 
 The script assumes you have a folder structure where each category of food has its own folder of images. These should all be placed within a single parent folder. The script uses 80% of the images for training and 20% for validation.
 
+* I used [Multiclass Food Classification using TensorFlow](https://www.kaggle.com/code/theimgclist/multiclass-food-classification-using-tensorflow/notebook) as a guideline for training my model.
+
 ## Classification Code
 
 The classification script uses the trained model to classify food items in new images. It also estimates the volume of the food item in the image, which helps to estimate the portion size of the food item.
